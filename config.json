@@ -1,0 +1,8 @@
+[
+  {
+    "name": "BotDatabase",
+    "supabase_url": "SUPABASE_URL_1",
+    "supabase_key_env": "SUPABASE_KEY_1",
+    "table_name": "keep-alive"
+  }
+]
